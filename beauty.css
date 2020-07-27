@@ -1094,6 +1094,45 @@
         height: 47px;
         font-size: 13px;
     }
+
+    .d-head{
+        font-size: 20px;
+        line-height: 18px;
+        position: absolute;
+        left: 50px;
+        top: 120px;
+    }
+    
+    .d-text{
+        position: absolute;
+        left: 10px;
+        text-align: center;
+        top: 180px;
+        font-size: 14px;
+        line-height: 15px; 
+    
+    }
+    
+    .play-store1{
+        position: absolute;
+        left: 40px;
+        top: 280px;
+        width: 120px;
+    }
+    
+    .play-store2{
+        position: absolute;
+        left: 200px;
+        top: 275px;
+        width: 120px;
+    }
+
+    
+    .foot-media{
+        padding-top:18px;
+        padding-left: 20px;
+    }
+
 }
 
 @media screen and (max-width:320px){
